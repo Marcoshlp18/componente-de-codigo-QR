@@ -1,0 +1,36 @@
+.bg-conteudo{
+  display: flex;
+  background:#146C94 ;
+  place-content: center;
+}
+
+.conteudo{
+  margin-top: 50px;
+  text-align: center;
+  padding-top: 2rem;
+  background: #fff;
+  width: 350px;
+  border-radius: 10px;
+}
+
+.img-conteudo{
+display: block;
+margin: auto;
+width: 200px;
+max-width: 100%;
+border-radius: 10px;
+}
+
+h1{
+  font-size: 2rem;
+  font-weight: 600;
+  font-family: 'Poppins';
+  color: #2B2B2B,
+}
+
+p{
+  font-size: 0.75rem;
+  font-weight: 200;
+  font-family: 'Poppins';
+  color: #423F3E;
+}
